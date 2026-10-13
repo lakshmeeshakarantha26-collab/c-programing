@@ -7,3 +7,6 @@ for number in range(5):
 print("list elements are:")
 for i in range(len(my_mark)):
     print(my_mark[i])
+
+for i in range(len(my_mark)):
+    sum+=my_mark[i]
